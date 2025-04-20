@@ -6,7 +6,7 @@ import { GERMAN_ARTICLES } from "../../../lib/levels";
 import { useVocaContext } from "./context";
 import { useRouter } from "next/navigation";
 
-// correct/incorrect UI
+//TODO: refactoring this page
 
 function shuffleArray<T>(array: T[]): T[] {
   return [...array].sort(() => Math.random() - 0.5);
@@ -18,6 +18,7 @@ export default function LevelClientPage({
   currentLevel: string;
 }) {
   const router = useRouter();
+  const [showPopup, setShowPopup] = useState(false);
 
   const articles = GERMAN_ARTICLES;
   const vocabularyPromise = useVocaContext();
@@ -47,8 +48,12 @@ export default function LevelClientPage({
     e.preventDefault();
     const droppedArticle = e.dataTransfer.getData("text/plain");
     if (droppedArticle === correctArticle) {
-      setSelectedArticle(null);
-      setCurrentIndex((prev) => prev + 1);
+      setShowPopup(true);
+      setTimeout(() => {
+        setShowPopup(false);
+        setSelectedArticle(null);
+        setCurrentIndex((prev) => prev + 1);
+      }, 1000);
     } else {
       setSelectedArticle(null);
     }
@@ -61,6 +66,13 @@ export default function LevelClientPage({
   return (
     <>
       <h1 className="text-4xl mb-8 font-bold">Level {currentLevel}</h1>
+      {showPopup && (
+        <div className="fixed inset-0 flex items-center justify-center z-50">
+          <div className="text-6xl font-bold px-12 py-8 animate-fade-in text-black">
+            Correct! 🎉
+          </div>
+        </div>
+      )}
       <div className="bg-gray-200 w-full max-w-xl p-6 rounded-xl">
         <div className="min-h-[80px] p-4 flex flex-wrap gap-3">
           {articles.map((article) => (
@@ -89,7 +101,9 @@ export default function LevelClientPage({
             >
               {selectedArticle === correctArticle ? selectedArticle : ""}
             </ChoiceChip>
-            <span className="text-2xl">{currentWord.word}</span>
+            <span className="text-2xl">
+              {currentWord.word} ({currentWord.translation})
+            </span>
           </div>
         </div>
       </div>
