@@ -1,0 +1,1433 @@
+[
+  {
+    "word": "Abend",
+    "article": "Der",
+    "translation": "evening"
+  },
+  {
+    "word": "Abfahrt",
+    "article": "Die",
+    "translation": "departure"
+  },
+  {
+    "word": "Abflug",
+    "article": "Der",
+    "translation": "takeoff"
+  },
+  {
+    "word": "Absender",
+    "article": "Der",
+    "translation": "sender"
+  },
+  {
+    "word": "Adresse",
+    "article": "Die",
+    "translation": "address"
+  },
+  {
+    "word": "Alter",
+    "article": "Das",
+    "translation": "age"
+  },
+  {
+    "word": "Angebot",
+    "article": "Das",
+    "translation": "offer"
+  },
+  {
+    "word": "Angestellte",
+    "article": "Der",
+    "translation": "employee"
+  },
+  {
+    "word": "Angst",
+    "article": "Die",
+    "translation": "fear"
+  },
+  {
+    "word": "Anmeldung",
+    "article": "Die",
+    "translation": "registration"
+  },
+  {
+    "word": "Anruf",
+    "article": "Der",
+    "translation": "phone call"
+  },
+  {
+    "word": "Anrufbeantworter",
+    "article": "Der",
+    "translation": "answering machine"
+  },
+  {
+    "word": "Anzug",
+    "article": "Der",
+    "translation": "suit"
+  },
+  {
+    "word": "Apotheke",
+    "article": "Die",
+    "translation": "pharmacy"
+  },
+  {
+    "word": "Apfel",
+    "article": "Der",
+    "translation": "apple"
+  },
+  {
+    "word": "Arm",
+    "article": "Der",
+    "translation": "arm"
+  },
+  {
+    "word": "Aufgabe",
+    "article": "Die",
+    "translation": "task"
+  },
+  {
+    "word": "Aufzug",
+    "article": "Der",
+    "translation": "elevator"
+  },
+  {
+    "word": "Ausbildung",
+    "article": "Die",
+    "translation": "training/education"
+  },
+  {
+    "word": "Ausflug",
+    "article": "Der",
+    "translation": "excursion"
+  },
+  {
+    "word": "Auskunft",
+    "article": "Die",
+    "translation": "information"
+  },
+  {
+    "word": "Ausländer",
+    "article": "Der",
+    "translation": "foreigner"
+  },
+  {
+    "word": "Aussage",
+    "article": "Die",
+    "translation": "statement"
+  },
+  {
+    "word": "Auto",
+    "article": "Das",
+    "translation": "car"
+  },
+  {
+    "word": "Bäckerei",
+    "article": "Die",
+    "translation": "bakery"
+  },
+  {
+    "word": "Bad",
+    "article": "Das",
+    "translation": "bathroom"
+  },
+  {
+    "word": "Bahn",
+    "article": "Die",
+    "translation": "train/railway"
+  },
+  {
+    "word": "Bahnhof",
+    "article": "Der",
+    "translation": "train station"
+  },
+  {
+    "word": "Balkon",
+    "article": "Der",
+    "translation": "balcony"
+  },
+  {
+    "word": "Banane",
+    "article": "Die",
+    "translation": "banana"
+  },
+  {
+    "word": "Bank",
+    "article": "Die",
+    "translation": "bank"
+  },
+  {
+    "word": "Batterie",
+    "article": "Die",
+    "translation": "battery"
+  },
+  {
+    "word": "Bauch",
+    "article": "Der",
+    "translation": "stomach"
+  },
+  {
+    "word": "Baum",
+    "article": "Der",
+    "translation": "tree"
+  },
+  {
+    "word": "Bein",
+    "article": "Das",
+    "translation": "leg"
+  },
+  {
+    "word": "Bekannte",
+    "article": "Der",
+    "translation": "acquaintance"
+  },
+  {
+    "word": "Beruf",
+    "article": "Der",
+    "translation": "profession"
+  },
+  {
+    "word": "Berufsschule",
+    "article": "Die",
+    "translation": "vocational school"
+  },
+  {
+    "word": "Besuch",
+    "article": "Der",
+    "translation": "visit"
+  },
+  {
+    "word": "Bett",
+    "article": "Das",
+    "translation": "bed"
+  },
+  {
+    "word": "Bewerbung",
+    "article": "Die",
+    "translation": "application"
+  },
+  {
+    "word": "Bier",
+    "article": "Das",
+    "translation": "beer"
+  },
+  {
+    "word": "Bild",
+    "article": "Das",
+    "translation": "picture"
+  },
+  {
+    "word": "Bleistift",
+    "article": "Der",
+    "translation": "pencil"
+  },
+  {
+    "word": "Blume",
+    "article": "Die",
+    "translation": "flower"
+  },
+  {
+    "word": "Bluse",
+    "article": "Die",
+    "translation": "blouse"
+  },
+  {
+    "word": "Boden",
+    "article": "Der",
+    "translation": "floor"
+  },
+  {
+    "word": "Bohnensuppe",
+    "article": "Die",
+    "translation": "bean soup"
+  },
+  {
+    "word": "Boot",
+    "article": "Das",
+    "translation": "boat"
+  },
+  {
+    "word": "Brief",
+    "article": "Der",
+    "translation": "letter"
+  },
+  {
+    "word": "Briefmarke",
+    "article": "Die",
+    "translation": "stamp"
+  },
+  {
+    "word": "Brille",
+    "article": "Die",
+    "translation": "glasses"
+  },
+  {
+    "word": "Brot",
+    "article": "Das",
+    "translation": "bread"
+  },
+  {
+    "word": "Brötchen",
+    "article": "Das",
+    "translation": "bread roll"
+  },
+  {
+    "word": "Brücke",
+    "article": "Die",
+    "translation": "bridge"
+  },
+  {
+    "word": "Buch",
+    "article": "Das",
+    "translation": "book"
+  },
+  {
+    "word": "Bude",
+    "article": "Die",
+    "translation": "booth/stall"
+  },
+  {
+    "word": "Bus",
+    "article": "Der",
+    "translation": "bus"
+  },
+  {
+    "word": "Butter",
+    "article": "Die",
+    "translation": "butter"
+  },
+  {
+    "word": "Café",
+    "article": "Das",
+    "translation": "café"
+  },
+  {
+    "word": "Chef",
+    "article": "Der",
+    "translation": "boss"
+  },
+  {
+    "word": "Computer",
+    "article": "Der",
+    "translation": "computer"
+  },
+  {
+    "word": "Dame",
+    "article": "Die",
+    "translation": "lady"
+  },
+  {
+    "word": "Drucker",
+    "article": "Der",
+    "translation": "printer"
+  },
+  {
+    "word": "Ehefrau",
+    "article": "Die",
+    "translation": "wife"
+  },
+  {
+    "word": "Ehemann",
+    "article": "Der",
+    "translation": "husband"
+  },
+  {
+    "word": "Eier",
+    "article": "Die",
+    "translation": "eggs"
+  },
+  {
+    "word": "Einladung",
+    "article": "Die",
+    "translation": "invitation"
+  },
+  {
+    "word": "Einkauf",
+    "article": "Der",
+    "translation": "purchase"
+  },
+  {
+    "word": "Einwohner",
+    "article": "Der",
+    "translation": "inhabitant"
+  },
+  {
+    "word": "Eltern",
+    "article": "Die",
+    "translation": "parents"
+  },
+  {
+    "word": "Ende",
+    "article": "Das",
+    "translation": "end"
+  },
+  {
+    "word": "Entschuldigung",
+    "article": "Die",
+    "translation": "apology"
+  },
+  {
+    "word": "Erfolg",
+    "article": "Der",
+    "translation": "success"
+  },
+  {
+    "word": "Erlaubnis",
+    "article": "Die",
+    "translation": "permission"
+  },
+  {
+    "word": "Essen",
+    "article": "Das",
+    "translation": "meal"
+  },
+  {
+    "word": "Etage",
+    "article": "Die",
+    "translation": "floor/storey"
+  },
+  {
+    "word": "Fabrik",
+    "article": "Die",
+    "translation": "factory"
+  },
+  {
+    "word": "Fahrrad",
+    "article": "Das",
+    "translation": "bicycle"
+  },
+  {
+    "word": "Familie",
+    "article": "Die",
+    "translation": "family"
+  },
+  {
+    "word": "Farbe",
+    "article": "Die",
+    "translation": "color"
+  },
+  {
+    "word": "Feier",
+    "article": "Die",
+    "translation": "celebration"
+  },
+  {
+    "word": "Fenster",
+    "article": "Das",
+    "translation": "window"
+  },
+  {
+    "word": "Ferien",
+    "article": "Die",
+    "translation": "vacation"
+  },
+  {
+    "word": "Fernseher",
+    "article": "Der",
+    "translation": "TV"
+  },
+  {
+    "word": "Fest",
+    "article": "Das",
+    "translation": "festival"
+  },
+  {
+    "word": "Feuer",
+    "article": "Das",
+    "translation": "fire"
+  },
+  {
+    "word": "Firma",
+    "article": "Die",
+    "translation": "company"
+  },
+  {
+    "word": "Fisch",
+    "article": "Der",
+    "translation": "fish"
+  },
+  {
+    "word": "Flasche",
+    "article": "Die",
+    "translation": "bottle"
+  },
+  {
+    "word": "Fleisch",
+    "article": "Das",
+    "translation": "meat"
+  },
+  {
+    "word": "Flugzeug",
+    "article": "Das",
+    "translation": "airplane"
+  },
+  {
+    "word": "Foto",
+    "article": "Das",
+    "translation": "photo"
+  },
+  {
+    "word": "Frage",
+    "article": "Die",
+    "translation": "question"
+  },
+  {
+    "word": "Frau",
+    "article": "Die",
+    "translation": "woman"
+  },
+  {
+    "word": "Freund",
+    "article": "Der",
+    "translation": "friend (male)"
+  },
+  {
+    "word": "Freundin",
+    "article": "Die",
+    "translation": "friend (female)"
+  },
+  {
+    "word": "Frühstück",
+    "article": "Das",
+    "translation": "breakfast"
+  },
+  {
+    "word": "Führerschein",
+    "article": "Der",
+    "translation": "driver's license"
+  },
+  {
+    "word": "Fuß",
+    "article": "Der",
+    "translation": "foot"
+  },
+  {
+    "word": "Fußball",
+    "article": "Der",
+    "translation": "football"
+  },
+  {
+    "word": "Gabel",
+    "article": "Die",
+    "translation": "fork"
+  },
+  {
+    "word": "Garten",
+    "article": "Der",
+    "translation": "garden"
+  },
+  {
+    "word": "Gast",
+    "article": "Der",
+    "translation": "guest"
+  },
+  {
+    "word": "Gebäude",
+    "article": "Das",
+    "translation": "building"
+  },
+  {
+    "word": "Geburt",
+    "article": "Die",
+    "translation": "birth"
+  },
+  {
+    "word": "Geburtstag",
+    "article": "Der",
+    "translation": "birthday"
+  },
+  {
+    "word": "Gefühl",
+    "article": "Das",
+    "translation": "feeling"
+  },
+  {
+    "word": "Gegenteil",
+    "article": "Das",
+    "translation": "opposite"
+  },
+  {
+    "word": "Geld",
+    "article": "Das",
+    "translation": "money"
+  },
+  {
+    "word": "Gemüse",
+    "article": "Das",
+    "translation": "vegetables"
+  },
+  {
+    "word": "Gericht",
+    "article": "Das",
+    "translation": "dish / court"
+  },
+  {
+    "word": "Geschenk",
+    "article": "Das",
+    "translation": "gift"
+  },
+  {
+    "word": "Gespräch",
+    "article": "Das",
+    "translation": "conversation"
+  },
+  {
+    "word": "Getränk",
+    "article": "Das",
+    "translation": "beverage"
+  },
+  {
+    "word": "Glas",
+    "article": "Das",
+    "translation": "glass"
+  },
+  {
+    "word": "Gleis",
+    "article": "Das",
+    "translation": "track"
+  },
+  {
+    "word": "Glück",
+    "article": "Das",
+    "translation": "luck"
+  },
+  {
+    "word": "Gruppe",
+    "article": "Die",
+    "translation": "group"
+  },
+  {
+    "word": "Gurke",
+    "article": "Die",
+    "translation": "cucumber"
+  },
+  {
+    "word": "Haus",
+    "article": "Das",
+    "translation": "house"
+  },
+  {
+    "word": "Hausaufgabe",
+    "article": "Die",
+    "translation": "homework"
+  },
+  {
+    "word": "Haustier",
+    "article": "Das",
+    "translation": "pet"
+  },
+  {
+    "word": "Hemd",
+    "article": "Das",
+    "translation": "shirt"
+  },
+  {
+    "word": "Herr",
+    "article": "Der",
+    "translation": "Mr./gentleman"
+  },
+  {
+    "word": "Hilfe",
+    "article": "Die",
+    "translation": "help"
+  },
+  {
+    "word": "Hobby",
+    "article": "Das",
+    "translation": "hobby"
+  },
+  {
+    "word": "Hotel",
+    "article": "Das",
+    "translation": "hotel"
+  },
+  {
+    "word": "Hund",
+    "article": "Der",
+    "translation": "dog"
+  },
+  {
+    "word": "Information",
+    "article": "Die",
+    "translation": "information"
+  },
+  {
+    "word": "Internet",
+    "article": "Das",
+    "translation": "internet"
+  },
+  {
+    "word": "Jacke",
+    "article": "Die",
+    "translation": "jacket"
+  },
+  {
+    "word": "Jahr",
+    "article": "Das",
+    "translation": "year"
+  },
+  {
+    "word": "Jugendherberge",
+    "article": "Die",
+    "translation": "youth hostel"
+  },
+  {
+    "word": "Junge",
+    "article": "Der",
+    "translation": "boy"
+  },
+  {
+    "word": "Kaffee",
+    "article": "Der",
+    "translation": "coffee"
+  },
+  {
+    "word": "Kamera",
+    "article": "Die",
+    "translation": "camera"
+  },
+  {
+    "word": "Karte",
+    "article": "Die",
+    "translation": "card/map"
+  },
+  {
+    "word": "Kartoffel",
+    "article": "Die",
+    "translation": "potato"
+  },
+  {
+    "word": "Kasse",
+    "article": "Die",
+    "translation": "checkout/register"
+  },
+  {
+    "word": "Kasten",
+    "article": "Der",
+    "translation": "box/crate"
+  },
+  {
+    "word": "Katze",
+    "article": "Die",
+    "translation": "cat"
+  },
+  {
+    "word": "Kaufhaus",
+    "article": "Das",
+    "translation": "department store"
+  },
+  {
+    "word": "Keller",
+    "article": "Der",
+    "translation": "basement"
+  },
+  {
+    "word": "Kind",
+    "article": "Das",
+    "translation": "child"
+  },
+  {
+    "word": "Kino",
+    "article": "Das",
+    "translation": "cinema"
+  },
+  {
+    "word": "Kleidung",
+    "article": "Die",
+    "translation": "clothing"
+  },
+  {
+    "word": "Koffer",
+    "article": "Der",
+    "translation": "suitcase"
+  },
+  {
+    "word": "Kollege",
+    "article": "Der",
+    "translation": "colleague"
+  },
+  {
+    "word": "Kommode",
+    "article": "Die",
+    "translation": "dresser"
+  },
+  {
+    "word": "Konto",
+    "article": "Das",
+    "translation": "account"
+  },
+  {
+    "word": "Kopf",
+    "article": "Der",
+    "translation": "head"
+  },
+  {
+    "word": "Küche",
+    "article": "Die",
+    "translation": "kitchen"
+  },
+  {
+    "word": "Kuchen",
+    "article": "Der",
+    "translation": "cake"
+  },
+  {
+    "word": "Kuh",
+    "article": "Die",
+    "translation": "cow"
+  },
+  {
+    "word": "Kunde",
+    "article": "Der",
+    "translation": "customer"
+  },
+  {
+    "word": "Kurs",
+    "article": "Der",
+    "translation": "course"
+  },
+  {
+    "word": "Lampe",
+    "article": "Die",
+    "translation": "lamp"
+  },
+  {
+    "word": "Lampenfieber",
+    "article": "Das",
+    "translation": "stage fright"
+  },
+  {
+    "word": "Leben",
+    "article": "Das",
+    "translation": "life"
+  },
+  {
+    "word": "Lehrer",
+    "article": "Der",
+    "translation": "teacher"
+  },
+  {
+    "word": "Lehrerin",
+    "article": "Die",
+    "translation": "female teacher"
+  },
+  {
+    "word": "Leute",
+    "article": "Die",
+    "translation": "people"
+  },
+  {
+    "word": "Licht",
+    "article": "Das",
+    "translation": "light"
+  },
+  {
+    "word": "Lied",
+    "article": "Das",
+    "translation": "song"
+  },
+  {
+    "word": "Löffel",
+    "article": "Der",
+    "translation": "spoon"
+  },
+  {
+    "word": "Lösung",
+    "article": "Die",
+    "translation": "solution"
+  },
+  {
+    "word": "Lust",
+    "article": "Die",
+    "translation": "desire/lust"
+  },
+  {
+    "word": "Markt",
+    "article": "Der",
+    "translation": "market"
+  },
+  {
+    "word": "Mädchen",
+    "article": "Das",
+    "translation": "girl"
+  },
+  {
+    "word": "Mann",
+    "article": "Der",
+    "translation": "man"
+  },
+  {
+    "word": "Marke",
+    "article": "Die",
+    "translation": "brand/stamp"
+  },
+  {
+    "word": "Maus",
+    "article": "Die",
+    "translation": "mouse"
+  },
+  {
+    "word": "Meer",
+    "article": "Das",
+    "translation": "sea"
+  },
+  {
+    "word": "Milch",
+    "article": "Die",
+    "translation": "milk"
+  },
+  {
+    "word": "Minute",
+    "article": "Die",
+    "translation": "minute"
+  },
+  {
+    "word": "Möbel",
+    "article": "Die",
+    "translation": "furniture"
+  },
+  {
+    "word": "Mond",
+    "article": "Der",
+    "translation": "moon"
+  },
+  {
+    "word": "Mund",
+    "article": "Der",
+    "translation": "mouth"
+  },
+  {
+    "word": "Museum",
+    "article": "Das",
+    "translation": "museum"
+  },
+  {
+    "word": "Mutter",
+    "article": "Die",
+    "translation": "mother"
+  },
+  {
+    "word": "Nachbar",
+    "article": "Der",
+    "translation": "neighbor"
+  },
+  {
+    "word": "Nachricht",
+    "article": "Die",
+    "translation": "message/news"
+  },
+  {
+    "word": "Nacht",
+    "article": "Die",
+    "translation": "night"
+  },
+  {
+    "word": "Name",
+    "article": "Der",
+    "translation": "name"
+  },
+  {
+    "word": "Natur",
+    "article": "Die",
+    "translation": "nature"
+  },
+  {
+    "word": "Notarzt",
+    "article": "Der",
+    "translation": "emergency doctor"
+  },
+  {
+    "word": "Note",
+    "article": "Die",
+    "translation": "grade"
+  },
+  {
+    "word": "Notfall",
+    "article": "Der",
+    "translation": "emergency"
+  },
+  {
+    "word": "Nummer",
+    "article": "Die",
+    "translation": "number"
+  },
+  {
+    "word": "Obst",
+    "article": "Das",
+    "translation": "fruit"
+  },
+  {
+    "word": "Ohr",
+    "article": "Das",
+    "translation": "ear"
+  },
+  {
+    "word": "Oma",
+    "article": "Die",
+    "translation": "grandma"
+  },
+  {
+    "word": "Onkel",
+    "article": "Der",
+    "translation": "uncle"
+  },
+  {
+    "word": "Opa",
+    "article": "Der",
+    "translation": "grandpa"
+  },
+  {
+    "word": "Ort",
+    "article": "Der",
+    "translation": "place"
+  },
+  {
+    "word": "Papier",
+    "article": "Das",
+    "translation": "paper"
+  },
+  {
+    "word": "Park",
+    "article": "Der",
+    "translation": "park"
+  },
+  {
+    "word": "Partner",
+    "article": "Der",
+    "translation": "partner"
+  },
+  {
+    "word": "Pausenbrot",
+    "article": "Das",
+    "translation": "snack/sandwich"
+  },
+  {
+    "word": "Person",
+    "article": "Die",
+    "translation": "person"
+  },
+  {
+    "word": "Platz",
+    "article": "Der",
+    "translation": "place/space/square"
+  },
+  {
+    "word": "Polizei",
+    "article": "Die",
+    "translation": "police"
+  },
+  {
+    "word": "Post",
+    "article": "Die",
+    "translation": "post office"
+  },
+  {
+    "word": "Preis",
+    "article": "Der",
+    "translation": "price"
+  },
+  {
+    "word": "Problem",
+    "article": "Das",
+    "translation": "problem"
+  },
+  {
+    "word": "Programm",
+    "article": "Das",
+    "translation": "program"
+  },
+  {
+    "word": "Prüfung",
+    "article": "Die",
+    "translation": "exam"
+  },
+  {
+    "word": "Pullover",
+    "article": "Der",
+    "translation": "sweater"
+  },
+  {
+    "word": "Radio",
+    "article": "Das",
+    "translation": "radio"
+  },
+  {
+    "word": "Raum",
+    "article": "Der",
+    "translation": "room/space"
+  },
+  {
+    "word": "Rechnung",
+    "article": "Die",
+    "translation": "bill/invoice"
+  },
+  {
+    "word": "Regal",
+    "article": "Das",
+    "translation": "shelf"
+  },
+  {
+    "word": "Regen",
+    "article": "Der",
+    "translation": "rain"
+  },
+  {
+    "word": "Reise",
+    "article": "Die",
+    "translation": "journey/trip"
+  },
+  {
+    "word": "Rezept",
+    "article": "Das",
+    "translation": "recipe/prescription"
+  },
+  {
+    "word": "Rock",
+    "article": "Der",
+    "translation": "skirt"
+  },
+  {
+    "word": "Rucksack",
+    "article": "Der",
+    "translation": "backpack"
+  },
+  {
+    "word": "Saft",
+    "article": "Der",
+    "translation": "juice"
+  },
+  {
+    "word": "Salat",
+    "article": "Der",
+    "translation": "salad"
+  },
+  {
+    "word": "Satz",
+    "article": "Der",
+    "translation": "sentence"
+  },
+  {
+    "word": "Schere",
+    "article": "Die",
+    "translation": "scissors"
+  },
+  {
+    "word": "Schinken",
+    "article": "Der",
+    "translation": "ham"
+  },
+  {
+    "word": "Schlüssel",
+    "article": "Der",
+    "translation": "key"
+  },
+  {
+    "word": "Schrank",
+    "article": "Der",
+    "translation": "cupboard"
+  },
+  {
+    "word": "Schule",
+    "article": "Die",
+    "translation": "school"
+  },
+  {
+    "word": "Schüler",
+    "article": "Der",
+    "translation": "pupil"
+  },
+  {
+    "word": "Schülerin",
+    "article": "Die",
+    "translation": "pupil (female)"
+  },
+  {
+    "word": "Schwein",
+    "article": "Das",
+    "translation": "pig"
+  },
+  {
+    "word": "Schwester",
+    "article": "Die",
+    "translation": "sister"
+  },
+  {
+    "word": "Seite",
+    "article": "Die",
+    "translation": "page/side"
+  },
+  {
+    "word": "Sohn",
+    "article": "Der",
+    "translation": "son"
+  },
+  {
+    "word": "Sonne",
+    "article": "Die",
+    "translation": "sun"
+  },
+  {
+    "word": "Spiel",
+    "article": "Das",
+    "translation": "game"
+  },
+  {
+    "word": "Spielplatz",
+    "article": "Der",
+    "translation": "playground"
+  },
+  {
+    "word": "Sport",
+    "article": "Der",
+    "translation": "sport"
+  },
+  {
+    "word": "Sprache",
+    "article": "Die",
+    "translation": "language"
+  },
+  {
+    "word": "Stadt",
+    "article": "Die",
+    "translation": "city"
+  },
+  {
+    "word": "Stift",
+    "article": "Der",
+    "translation": "pen"
+  },
+  {
+    "word": "Straße",
+    "article": "Die",
+    "translation": "street"
+  },
+  {
+    "word": "Student",
+    "article": "Der",
+    "translation": "student"
+  },
+  {
+    "word": "Studentin",
+    "article": "Die",
+    "translation": "female student"
+  },
+  {
+    "word": "Studium",
+    "article": "Das",
+    "translation": "studies"
+  },
+  {
+    "word": "Stuhl",
+    "article": "Der",
+    "translation": "chair"
+  },
+  {
+    "word": "Tag",
+    "article": "Der",
+    "translation": "day"
+  },
+  {
+    "word": "Tasche",
+    "article": "Die",
+    "translation": "bag"
+  },
+  {
+    "word": "Tasse",
+    "article": "Die",
+    "translation": "cup"
+  },
+  {
+    "word": "Teller",
+    "article": "Der",
+    "translation": "plate"
+  },
+  {
+    "word": "Termin",
+    "article": "Der",
+    "translation": "appointment"
+  },
+  {
+    "word": "Theater",
+    "article": "Das",
+    "translation": "theater"
+  },
+  {
+    "word": "Tochter",
+    "article": "Die",
+    "translation": "daughter"
+  },
+  {
+    "word": "Toilette",
+    "article": "Die",
+    "translation": "toilet"
+  },
+  {
+    "word": "Tomate",
+    "article": "Die",
+    "translation": "tomato"
+  },
+  {
+    "word": "Tür",
+    "article": "Die",
+    "translation": "door"
+  },
+  {
+    "word": "U-Bahn",
+    "article": "Die",
+    "translation": "subway"
+  },
+  {
+    "word": "Uhr",
+    "article": "Die",
+    "translation": "clock"
+  },
+  {
+    "word": "Umfrage",
+    "article": "Die",
+    "translation": "survey"
+  },
+  {
+    "word": "Unfall",
+    "article": "Der",
+    "translation": "accident"
+  },
+  {
+    "word": "Universität",
+    "article": "Die",
+    "translation": "university"
+  },
+  {
+    "word": "Unterkunft",
+    "article": "Die",
+    "translation": "accommodation"
+  },
+  {
+    "word": "Unterschied",
+    "article": "Der",
+    "translation": "difference"
+  },
+  {
+    "word": "Urlaub",
+    "article": "Der",
+    "translation": "holiday"
+  },
+  {
+    "word": "Verbindung",
+    "article": "Die",
+    "translation": "connection"
+  },
+  {
+    "word": "Vergangenheit",
+    "article": "Die",
+    "translation": "past"
+  },
+  {
+    "word": "Verkehr",
+    "article": "Der",
+    "translation": "traffic"
+  },
+  {
+    "word": "Verwandte",
+    "article": "Der",
+    "translation": "relative"
+  },
+  {
+    "word": "Vogel",
+    "article": "Der",
+    "translation": "bird"
+  },
+  {
+    "word": "Vormittag",
+    "article": "Der",
+    "translation": "morning"
+  },
+  {
+    "word": "Wagen",
+    "article": "Der",
+    "translation": "car"
+  },
+  {
+    "word": "Wasser",
+    "article": "Das",
+    "translation": "water"
+  },
+  {
+    "word": "Weg",
+    "article": "Der",
+    "translation": "way"
+  },
+  {
+    "word": "Weihnachten",
+    "article": "Das",
+    "translation": "Christmas"
+  },
+  {
+    "word": "Wein",
+    "article": "Der",
+    "translation": "wine"
+  },
+  {
+    "word": "Weißbrot",
+    "article": "Das",
+    "translation": "white bread"
+  },
+  {
+    "word": "Wetter",
+    "article": "Das",
+    "translation": "weather"
+  },
+  {
+    "word": "Wiederholung",
+    "article": "Die",
+    "translation": "repetition"
+  },
+  {
+    "word": "Wiese",
+    "article": "Die",
+    "translation": "meadow"
+  },
+  {
+    "word": "Witz",
+    "article": "Der",
+    "translation": "joke"
+  },
+  {
+    "word": "Woche",
+    "article": "Die",
+    "translation": "week"
+  },
+  {
+    "word": "Wohnung",
+    "article": "Die",
+    "translation": "apartment"
+  },
+  {
+    "word": "Wort",
+    "article": "Das",
+    "translation": "word"
+  },
+  {
+    "word": "Wörterbuch",
+    "article": "Das",
+    "translation": "dictionary"
+  },
+  {
+    "word": "Wurst",
+    "article": "Die",
+    "translation": "sausage"
+  },
+  {
+    "word": "Zahnarzt",
+    "article": "Der",
+    "translation": "dentist"
+  },
+  {
+    "word": "Zahl",
+    "article": "Die",
+    "translation": "number"
+  },
+  {
+    "word": "Zeit",
+    "article": "Die",
+    "translation": "time"
+  }
+]
+  

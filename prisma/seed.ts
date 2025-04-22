@@ -1,8 +1,22 @@
 import { PrismaClient, $Enums } from "../app/generated/prisma";
 import { withAccelerate } from "@prisma/extension-accelerate";
-import vocabularyData from "../data/vocabulary.json";
+import vocaA1 from "../data/voca_A1.json";
+import vocaA2 from "../data/voca_A2.json";
 
 const prisma = new PrismaClient().$extends(withAccelerate());
+
+const vocabularyData = {
+  A1: vocaA1,
+  A2: vocaA2,
+  B1: [
+    {
+      "word": "Universität",
+      "article": "Die",
+      "translation": "university"
+    }
+  ],
+  B2: []
+};
 
 // const userData: Prisma.UserCreateInput[] = [
 //  {

@@ -12,5 +12,4 @@ export type Vocabulary = {
   article: "Der" | "Die" | "Das";
   translation: string;
   level: "A1" | "A2" | "B1" | "B2" | string; 
-  createdAt: Date; 
 };

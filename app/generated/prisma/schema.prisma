@@ -40,5 +40,4 @@ model Vocabulary {
   article     Article
   translation String
   level       LanguageLevel
-  createdAt   DateTime      @default(now())
 }
